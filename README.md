@@ -102,6 +102,7 @@ The DLLs (`SDL2.dll`, `lua51.dll`, `OpenAL32.dll`, etc.) must sit next to `tank.
 
 Sound effects from [Pixabay](https://pixabay.com/sound-effects/):
 
+- Coding: Claude, me
 - [FoxBoyTails](https://pixabay.com/users/foxboytails-49447089/)
 - [freesound_community](https://pixabay.com/users/freesound_community-46691455/)
 - [Universfield](https://pixabay.com/users/universfield-28281460/)
