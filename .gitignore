@@ -1,0 +1,27 @@
+# Build artifacts
+*.love
+*.exe
+dist-win/
+love-win64/
+love-*-win64.zip
+love-*-x86_64.AppImage
+tank-win64.zip
+
+# OS junk
+.DS_Store
+Thumbs.db
+build_win.sh
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local Claude config
+.claude/
+
+# Lua
+luac.out
+*.luac
